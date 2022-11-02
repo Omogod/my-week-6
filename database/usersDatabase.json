@@ -1,0 +1,101 @@
+[
+   {
+      "id": "1daec0c4-45e9-476e-afa5-742c98c2d17c",
+      "fullname": "john doe",
+      "email": "john@example.com",
+      "password": "$2a$10$wjcxCzi6JlVzUdstwfFpeeQBdALuOq9E8C5htF9C7S0yR5z9CCNay",
+      "gender": "male",
+      "phone": "+2347085647535",
+      "address": "1, rantech stop,"
+   },
+   {
+      "id": "bb831ae6-e10d-4832-a9d9-940dfa0b348e",
+      "fullname": "john don",
+      "email": "john@example1.com",
+      "password": "$2a$10$svKnM4JR0dTPrKS9ZAkDe.bDbCs9EIl9gHwksph53gGa7Oso6hPEe",
+      "gender": "male",
+      "phone": "+2347085647535",
+      "address": "1, rantech stop,"
+   },
+   {
+      "id": "82ba0ffb-4bef-4f18-9579-a41c7c1136bc",
+      "fullname": "john don",
+      "email": "john@example2.com",
+      "password": "$2a$10$3x/m6nMo7.9JXg2k/GEcvuXZ3/d8oH8R7onvJOgWU9lOMMhE/UFdS",
+      "gender": "male",
+      "phone": "+2347085647535",
+      "address": "1, rantech stop,"
+   },
+   {
+      "id": "b1a32f46-b0fd-4779-bca4-f275e9ea4904",
+      "fullname": "john don",
+      "email": "john@example3.com",
+      "password": "$2a$10$NVq2ZwnVKGly28owFnJfuuHRftfCL9MC0sFjYiIPbElX1E.WCVFpK",
+      "gender": "male",
+      "phone": "+2347085647535",
+      "address": "1, rantech stop,"
+   },
+   {
+      "id": "b4f418cd-4ecf-4b2d-9985-c1e075011bbe",
+      "fullname": "godstime",
+      "email": "godstime.omoregie@decagon.dev",
+      "password": "$2a$10$beo0v/5C6kjujjmKQDGI0OiTMm0Mc387J1x.L10qZcOPIiaPmT17e",
+      "gender": "male",
+      "phone": "09036964330",
+      "address": "10, ediendo street, benin city"
+   },
+   {
+      "id": "5f969c6a-0ee2-4850-ac1c-882870a9a02c",
+      "fullname": "john don",
+      "email": "john@example4.com",
+      "password": "$2a$10$LXpVwH1nj9rq0Z.NxJ6ofuKbkUfPtIhya4AVdlNLUxpYhwIxp9o6O",
+      "gender": "male",
+      "phone": "+2347085647535",
+      "address": "1, rantech stop,"
+   },
+   {
+      "id": "c63d54bc-9b41-40d4-a47b-58c5c2654398",
+      "fullname": "john don",
+      "email": "john@example5.com",
+      "password": "$2a$10$hJstrPW04LyV5eDO3gSXyOB3cX7AbGpHjSwPdaRUnnaADZJlzDMCu",
+      "gender": "male",
+      "phone": "+2347085647535",
+      "address": "1, rantech stop,"
+   },
+   {
+      "id": "b33e5af9-c4c8-41a7-b87c-13fdff7ce944",
+      "fullname": "john don",
+      "email": "john@example6.com",
+      "password": "$2a$10$81r3Stwy.xBmvjk.konlZO8sT4Gn.aHI8IKol0TFj7uK.cgEWhJva",
+      "gender": "male",
+      "phone": "+2347085647535",
+      "address": "1, rantech stop,"
+   },
+   {
+      "id": "9b0ea18f-64cf-4840-b287-97d2a9537e2a",
+      "fullname": "john",
+      "email": "john@example7.com",
+      "password": "$2a$10$TrnhJGLHzPX/04ZVCN.EmOcWMkdLgPbmjqvr1fNgs.YoYiyk2ZDey",
+      "gender": "male",
+      "phone": "+2347085647535",
+      "address": "1, rantech stop,"
+   },
+   {
+      "id": "9c305674-566a-4661-b111-c45e3a2c87db",
+      "fullname": "john",
+      "email": "john@example8.com",
+      "password": "$2a$10$Ndwl.xrjaGKNXtmnrm.WTOtWT.3hib36psqsr296YXHFuqAnYqBzC",
+      "gender": "male",
+      "phone": "+2347085647535",
+      "address": "1, rantech stop,"
+   },
+   {
+      "id": "d8297003-2c62-4feb-ac63-6ae02beafdcb",
+      "fullname": "sleeve",
+      "email": "john@example10.com",
+      "password": "$2a$10$eSVEe3gYwWf/JpPsJwoH3ufA05mRaztInUue6kpqWBllQG0TfSgtq",
+      "gender": "male",
+      "phone": "09036964330",
+      "address": "10, ediendo street, benin city"
+   }
+]

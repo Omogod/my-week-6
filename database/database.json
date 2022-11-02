@@ -1,0 +1,74 @@
+[
+   {
+      "id": 5,
+      "name": "shirt",
+      "image": "https://img.freepik.com/free-photo/portrait-two-african-females-holding-shopping-bags-while-reacting-something-their-smartphone_181624-31562.jpg?size=626&ext=jpg&ga=GA1.2.18832118.1667264090",
+      "brand": "fendi",
+      "category": "clothing",
+      "description": "amazing fit for tech bros",
+      "price": "10000",
+      "countInStock": "5",
+      "rating": "4.8",
+      "numReviews": "5000"
+   },
+   {
+      "id": 6,
+      "name": "shoes",
+      "image": "https://img.freepik.com/premium-photo/white-sneakers-shelf-background-clothes-racks-out-focus-fashion-concept_543278-1331.jpg?size=626&ext=jpg&ga=GA1.2.18832118.1667264090&semt=sph",
+      "brand": "gucci",
+      "category": "clothing",
+      "description": "amazing fit for tech bros",
+      "price": "10000",
+      "countInStock": "10",
+      "rating": "4.5",
+      "numReviews": "5000"
+   },
+   {
+      "id": 7,
+      "name": "Tech Suit",
+      "image": "https://img.freepik.com/premium-photo/stylish-businesswoman-holding-mobile-phone-using-laptop-computer-working-online-street_695242-185.jpg?size=626&ext=jpg&ga=GA1.2.18832118.1667264090&semt=sph",
+      "brand": "fendi",
+      "category": "clothing",
+      "description": "amazing fit for tech bros",
+      "price": "10000",
+      "countInStock": "10",
+      "rating": "4.8",
+      "numReviews": "5000"
+   },
+   {
+      "id": 8,
+      "name": "system",
+      "image": "https://t3.ftcdn.net/jpg/01/09/57/64/240_F_109576456_0wMZb71t1721o6BpkfMgpbosFn1hzBzq.jpg",
+      "brand": "mac",
+      "category": "tech",
+      "description": "amazing fit for tech bros",
+      "price": "1m",
+      "countInStock": "5",
+      "rating": "4.5",
+      "numReviews": "5000"
+   },
+   {
+      "id": 9,
+      "name": "Iphone14",
+      "image": "https://img.freepik.com/premium-photo/beautiful-smiling-asian-woman-using-mobile-phone-shopping-online-sitting-cafe_695242-238.jpg?size=626&ext=jpg",
+      "brand": "iphone",
+      "category": "handset",
+      "description": "amazing fit for tech bros",
+      "price": "800k",
+      "countInStock": "10",
+      "rating": "5.0",
+      "numReviews": "5000"
+   },
+   {
+      "id": 10,
+      "name": "suit",
+      "image": "https://t3.ftcdn.net/jpg/01/65/89/28/240_F_165892885_09cGQ2hatkGpJV7Ivc3zTcqnbhppW0FM.jpg",
+      "brand": "fendi",
+      "category": "clothing",
+      "description": "amazing fit for tech bros",
+      "price": "50k",
+      "countInStock": "10",
+      "rating": "4.8",
+      "numReviews": "5000"
+   }
+]
