@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "yarn tsc && node ./bin/www --watch",
+    "start": "node ./bin/www",
     "serve": "nodemon ./bin/www",
     "test": "jest"
   },
