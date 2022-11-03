@@ -10,6 +10,13 @@ import indexRouter from './routes/index';
 import usersRouter from './routes/users';
 // const productRouter = require('./routes/product');
 
+import helmet from 'helmet';
+import compression from 'compression';
+
+
+    
+
+
 const dotENV = dotenv.config()
 
 // const indexRouter = require('./routes/index');
@@ -28,6 +35,8 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname,"..", path.sep, 'public')));
 app.use(methodOverride('_method'));
+app.use(helmet());
+app.use(compression());
 
 
 
