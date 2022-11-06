@@ -59,7 +59,8 @@ export const isLoggedIn = asyncHandler(async (req: Request, res: Response, next:
         // throw new Error('Not authorized, no token');
     }
 });
-    
+
+
 
 // import express, { Request, Response, NextFunction } from "express";
 // import httpStatus from "http-status";

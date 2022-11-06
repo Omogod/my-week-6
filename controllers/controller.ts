@@ -24,6 +24,12 @@ export const getProducts = asyncHandler(async function (req:Request, res: Respon
     res.status(200).render('showProducts', {title: 'Products', data, token, user: user.fullname});
   })
 
+  
+  export const getProductsN = asyncHandler(async function (req:Request, res: Response, next: NextFunction) {
+    const data = await findAllData();
+    res.status(200).render('showProductsN', {title: 'Products', data});
+  })
+
 
 export const getProductsById = asyncHandler(async function(req:Request, res: Response, next: NextFunction) {
     const id = Number(req.params.id);
